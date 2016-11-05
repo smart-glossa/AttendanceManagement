@@ -52,9 +52,6 @@ public class DetailsServlet extends HttpServlet {
 	try
 	{
 		
-	}catch(Exception e)
-	{
-		
 	}
 	}
 
