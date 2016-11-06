@@ -14,6 +14,5 @@ public class DetailsBL {
 				.setgschool(gschool).setdate(date).setphoto(photo);
 		DetailsClass.getObject().AddDetail(detail);
 		return detail;
-	}    
+	}
 }
-  //hello 
